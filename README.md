@@ -7,7 +7,7 @@
 <tr border=0>
 <td>
 <a href="https://github.com/rykfield/REF01-Industrial-Bucket#README">Industrial Bucket
-<BR><img width=102 height=64 src="https://raw.githubusercontent.com/rykfield/REF01-Industrial-Bucket/master/Industrial%20Bucket.jpg"></a>
+<BR><img width=204 height=128 src="https://raw.githubusercontent.com/rykfield/REF01-Industrial-Bucket/master/Industrial%20Bucket.jpg"></a>
 </td>
 <td></td>
 </tr>
