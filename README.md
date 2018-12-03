@@ -2,7 +2,7 @@
 # Lego GBC Modules by Ryk Field
 <center>
 
-<table border=0 columns=2>
+<table border=0>
 <tr border=0>
 
 <td align='center'>
@@ -13,6 +13,9 @@
 
 <td align='center'>Module 02<br>Still in development
 </td>
+
+</tr>
+<tr border=0>
 
 <td align='center'>
 <a href="https://github.com/rykfield/REF03-16x16-Stepper#README">
