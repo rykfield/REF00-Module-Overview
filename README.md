@@ -5,7 +5,7 @@
 
 <center>
 <tr border=0>
-<td>
+<td align='center'>
 <a href="https://github.com/rykfield/REF01-Industrial-Bucket#README">Industrial Bucket
 <BR><img width=204 height=128 src="https://raw.githubusercontent.com/rykfield/REF01-Industrial-Bucket/master/Industrial%20Bucket.jpg"></a>
 </td>
