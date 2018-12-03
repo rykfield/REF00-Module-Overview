@@ -1,6 +1,6 @@
 <a name="README"></a>
-<center>
 # Lego GBC Modules by Ryk Field
+<center>
 
 <table border=0 columns=2>
 
