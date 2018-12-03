@@ -2,9 +2,8 @@
 # Lego GBC Modules by Ryk Field
 <center>
 
-<table border=0 columns=2>
+<table border=0 columns=2 align='center'>
 
-<center>
 <tr border=0>
 
 <td align='center'>
