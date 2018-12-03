@@ -1,4 +1,5 @@
 <a name="README"></a>
+<center>
 # Lego GBC Modules by Ryk Field
 
 <table border=0 columns=2>
@@ -36,3 +37,4 @@
 </center>
 
 <P>You might also like The Great Ball Of China: https://www.youtube.com/watch?v=Vlvy_arx3Xg
+</centre>
