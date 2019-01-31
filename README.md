@@ -34,6 +34,9 @@
 <BR>Module 05<BR>Bat Wheel</a>
 </td>
 <td align='center'><br>
+<a href="https://github.com/rykfield/REF06-Friendly-Mia-Wheel#README">
+<img width=204 height=128 src="https://raw.githubusercontent.com/rykfield/REF06-Friendly-Mia-Wheel/master/Mia-Wheel-41358-Entry_204_128.png">
+<BR>Module 06<BR>Friendly Mia Wheel</a>
 </td>
 </tr>
 
