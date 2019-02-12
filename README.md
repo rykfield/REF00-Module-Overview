@@ -9,8 +9,10 @@
 <a href="https://github.com/rykfield/REF01-Industrial-Bucket#README">
 <img width=204 height=128 src="https://raw.githubusercontent.com/rykfield/REF01-Industrial-Bucket/master/Industrial%20Bucket.jpg">
 <BR>Module 01<BR>Industrial Bucket</a>
-</td>
-<td align='center'>Module 02<br>Still in development
+<td align='center'>
+<a href="https://github.com/rykfield/REF02-Two-Scoops#README">
+<img width=204 height=95 src="https://github.com/rykfield/REF02-Two-Scoops/raw/master/Two%20Scoops%20-%20Banner%20Render%20(Small).jpg">
+<BR>Module 02<BR>Two Scoops</a>
 </td>
 </tr>
 
