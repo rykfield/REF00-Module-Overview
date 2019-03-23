@@ -19,7 +19,7 @@
 <tr border=0>
 <td align='center'>
 <a href="https://github.com/rykfield/REF03-16x16-Stepper#README">
-<img width=204 height=128 src="https://raw.githubusercontent.com/rykfield/REF03-16x16-Stepper/master/REF03%20-%2016x16%20Stepper.jpg">
+<img width=132 height=128 src="https://raw.githubusercontent.com/rykfield/REF03-16x16-Stepper/master/REF03%20-%2016x16%20Stepper.jpg">
 <BR>Module 03<BR>16x16 Stepper</a>
 </td>
 <td align='center'>
