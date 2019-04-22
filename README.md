@@ -47,14 +47,19 @@
 
 <table border=0>
 <tr border=0>
+
 <td align='center'>
-<a href="https://github.com/rykfield/MOD01-Unreleased#README">
-<BR>Module 01<BR>Unreleased</a>
+<a href="https://github.com/rykfield/MOD01-Compact-Reservoir#README">
+<img width=127 height=95 src="https://github.com/rykfield/MOD01-Compact-Reservoir/raw/master/MOD01%20-%20Compact%20Reservoir%20(Small).jpg">
+<BR>MOD01<BR>Compact Reservoir</a>
+</td>
+
 <td align='center'>
 <a href="https://github.com/rykfield/MOD02-Lime-Wheel#README">
 <img width=93 height=95 src="https://github.com/rykfield/MOD02-Lime-Wheel/raw/master/MOD02%20-%20Power%20Miners%20-%20Lime%20Wheel%20(Small).jpg">
 <BR>MOD02<BR>Power Miners Lime Wheel</a>
 </td>
+
 </tr>
 
 </td>
