@@ -61,10 +61,31 @@
 </td>
 
 </tr>
-
 </td>
-</tr>
 </table>
+
+
+<P>
+<H1>Bits and Pieces</H1>
+
+<table border=0>
+<tr border=0>
+
+<td align='left'>
+<img width=128 height=96 src="https://github.com/rykfield/MOD01-Compact-Reservoir/raw/master/MOD01%20-%20Compact%20Reservoir%20(Small).jpg">
+<BR>GBC Ball Box</a>
+</td>
+
+<td align='left'>
+Instructions: <a href="">PDF File</a>
+<BR>
+Design: <a href="">Stud.io source (.IO)</a>
+</td>
+
+</tr>
+</td>
+</table>
+
 
 
 </center>
