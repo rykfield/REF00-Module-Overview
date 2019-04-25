@@ -77,9 +77,9 @@
 </td>
 
 <td align='left'>
-Instructions: <a href="">PDF File</a>
+Instructions: <a href="https://github.com/rykfield/REF00-Module-Overview/raw/master/Ball%20Box.pdf">PDF File</a>
 <BR>
-Design: <a href="">Stud.io source (.IO)</a>
+Design: <a href="https://github.com/rykfield/REF00-Module-Overview/raw/master/Ball%20Box.io">Stud.io source (.IO)</a>
 </td>
 
 </tr>
