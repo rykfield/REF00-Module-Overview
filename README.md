@@ -72,7 +72,7 @@
 <tr border=0>
 
 <td align='left'>
-<img width=128 height=96 src="https://github.com/rykfield/MOD01-Compact-Reservoir/raw/master/MOD01%20-%20Compact%20Reservoir%20(Small).jpg">
+<img width=128 height=96 src="https://github.com/rykfield/REF00-Module-Overview/raw/master/Ball%20Box.jpg">
 <BR>GBC Ball Box</a>
 </td>
 
