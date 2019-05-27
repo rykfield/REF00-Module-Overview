@@ -66,7 +66,7 @@
 
 <td align='center'>
 <a href="https://github.com/rykfield/MOD03-Tower-Bridge#README">
-<img width=169 height=95 src="small">
+<img width=169 height=95 src="https://github.com/rykfield/MOD03-Tower-Bridge/raw/master/MOD03%20-%20Tower%20Bridge%20(Small).jpg">
 <BR>MOD03<BR>Tower Bridge</a>
 </td>
 
