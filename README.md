@@ -82,7 +82,7 @@
 
 <td align='center'>
 <a href="https://github.com/rykfield/MOD05-Triple-Splat-Loader#README">
-<img width=169 height=95 src="">
+<img width=149 height=95 src="https://github.com/rykfield/MOD05-Triple-Splat-Loader/raw/master/MOD05-Triple-Splat-Loader(Small).jpg">
 <BR>MOD05<BR>Triple Splat Loader</a>
 </td>
 
