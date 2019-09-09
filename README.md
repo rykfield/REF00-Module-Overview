@@ -77,7 +77,20 @@
 </td>
 
 </tr>
+
+<tr border=0>
+
+<td align='center'>
+<a href="https://github.com/rykfield/MOD05-Triple-Splat-Loader#README">
+<img width=169 height=95 src="">
+<BR>MOD05<BR>Triple Splat Loader</a>
 </td>
+
+<td align='center'>
+</td>
+
+</tr>
+
 </table>
 
 
