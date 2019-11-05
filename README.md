@@ -57,7 +57,7 @@
 <tr border=0>
 <td align='center'>
 <a href="https://github.com/rykfield/REF09#README">
-<BR>Module 09<BR>tba</a>
+<BR>Module 09<BR>Rotating Truss</a>
 </td>
 <td align='center'><br>
 <a href="https://github.com/rykfield/REF10#README">
