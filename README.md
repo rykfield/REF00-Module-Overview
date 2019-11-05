@@ -40,6 +40,31 @@
 <BR>Module 06<BR>Friendly Mia Wheel</a>
 </td>
 </tr>
+
+
+<tr border=0>
+<td align='center'>
+<a href="https://github.com/rykfield/REF07#README">
+<BR>Module 07<BR>tba</a>
+</td>
+<td align='center'><br>
+<a href="https://github.com/rykfield/REF08#README">
+<BR>Module 08<BR>Lost On Lombard</a>
+</td>
+</tr>
+
+<tr border=0>
+<td align='center'>
+<a href="https://github.com/rykfield/REF09#README">
+<BR>Module 09<BR>tba</a>
+</td>
+<td align='center'><br>
+<a href="https://github.com/rykfield/REF10#README">
+<BR>Module 10<BR>tba</a>
+</td>
+</tr>
+
+
 </table>
 
 <P>
