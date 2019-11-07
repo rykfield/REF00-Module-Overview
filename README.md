@@ -45,11 +45,12 @@
 <tr border=0>
 <td align='center'>
 <a href="https://github.com/rykfield/REF07#README">
+<img width=108 height=128 src="https://github.com/rykfield/REF07-Andreas-Tunnel-Of-Love/raw/master/ATOL%20Banner%20128.jpg">
 <BR>Module 07<BR>Andrea's Tunnel Of Love</a>
 </td>
 <td align='center'><br>
 <a href="https://github.com/rykfield/REF08-Lost-On-Lombard#README">
-<img width=108 height=128 src="https://github.com/rykfield/REF08-Lost-On-Lombard/raw/master/Lost%20On%20Lombard%20128.jpg">
+<img width=96 height=128 src="https://github.com/rykfield/REF08-Lost-On-Lombard/raw/master/Lost%20On%20Lombard%20128.jpg">
 <BR>Module 08<BR>Lost On Lombard</a>
 </td>
 </tr>
