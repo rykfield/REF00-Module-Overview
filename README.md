@@ -57,7 +57,8 @@
 
 <tr border=0>
 <td align='center'>
-<a href="https://github.com/rykfield/REF09#README">
+<a href="https://github.com/rykfield/REF09-Rotating-Truss#README">
+<img width199 height=128 src="https://github.com/rykfield/REF09-Rotating-Truss/raw/master/REF09%20-%20Rotating%20Truss%20-%20Banner_128.jpg">
 <BR>Module 09<BR>Rotating Truss</a>
 </td>
 <td align='center'><br>
